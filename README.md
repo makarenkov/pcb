@@ -1,1 +1,1 @@
-# pcb
+KiCAD test repository
