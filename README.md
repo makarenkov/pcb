@@ -1,1 +1,1 @@
-KiCAD test repository
+KiCAD test repository 2
